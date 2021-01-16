@@ -1,0 +1,216 @@
+@media (max-width: 480px) {
+  .card-box i{
+  	font-size: 30px;
+  }
+  .card-box h6{
+  	font-size: 18px;
+  }
+  .card-box h1{
+  	font-size: 18px;
+  }
+  .trend_art ul{
+	width: 100%;
+	padding: 0;
+	margin: 0 0 20px 10px;
+  }
+  .trend_art ul li a{
+    text-align: center;
+    color: #333;
+    padding: 5px;
+  }
+  .arts_desc .img img{
+  	width: 70%;
+  	height: 100px;
+  	margin: 50px 0 50px 0;
+  	border-radius: 100%;
+  }
+  button.btn {
+    float: left;
+    width: 10%;
+    position: relative;
+  }
+  .nav_search {
+    width: 90%;
+    float: right;
+    position: relative;
+  	-webkit-transition: width 0.4s ease-in-out;
+  	transition: width 0.4s ease-in-out;
+  }
+  .nav_search .has-search {
+    width: 100%;
+  }
+  .nav_search .has-search input[type="text"]{
+    width: 100%;
+  }
+  ul#mainNavbarCollapse {
+    display: inline;
+    margin: 12px auto;
+    position: relative;
+  }
+  ul#mainNavbarCollapse li.notif li.list-inline-item {
+    width: 50%;
+    position: relative;
+  }
+  ul#mainNavbarCollapse li.notif li.list-inline-item .notif_row {
+    display: inline;
+    position: relative;
+  }
+  .dropdown-menu a.notify-item {
+    width: 100%;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    margin: auto;
+  }
+  .dashboard_header {
+    margin: auto;
+  }
+  .dashboard_header h6 {
+    text-align: center;
+    font-size: 12px;
+    width: 100%;
+  }
+  .dashboard_header h6 {
+    text-align: center !important;
+    font-size: 12px;
+    width: 100%;
+  }
+  /* steps on how to use afrihow publisher's platform */
+  .publisher_steps {
+    width: 100%;
+    margin: auto;
+    padding: 6px !important;
+  }
+  .publisher_steps_one {
+    width: 100%;
+    text-align: center;
+    margin: auto !important;
+  }
+  .publisher_steps_one .publisher_step_left {
+    width: 100%;
+  }
+  .publisher_steps_one .publisher_step_left {
+    float: left;
+    width: 20%;
+    margin: 1em auto;
+  }
+  .publisher_steps_one .publisher_step_left span.step_no {
+      border-radius: 50%;
+      background: #004000;
+      color: #fff;
+      padding: 14px;
+      font-weight: 800;
+  }
+  ul.progressbar {
+    display: none;
+  }
+  .publisher_steps_one .publisher_step_right {
+    float: left;
+    width: 80%;
+    text-align: left;
+  }
+  .publisher_steps_one .publisher_step_right h4 {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 840px) {
+  .body {
+    width: 100%;
+    position: relative;
+  }
+  .dashboard_header h6 {
+    text-align: center !important;
+    font-size: 12px;
+    width: 100%;
+  }
+  .trend_art ul{
+    width: 100%;
+    padding: 0;
+    margin: 0 0 20px 10px;
+    }
+    .trend_art ul li a{
+      text-align: center;
+      color: #333;
+      padding: 5px;
+    }
+    .arts_desc .img img{
+      width: 70%;
+      height: 100px;
+      margin: 50px 0 50px 0;
+      border-radius: 100%;
+    }
+    button.btn {
+      float: left;
+      width: 10%;
+      position: relative;
+    }
+    .nav_search {
+      width: 90%;
+      float: right;
+      position: relative;
+      -webkit-transition: width 0.4s ease-in-out;
+      transition: width 0.4s ease-in-out;
+    }
+    .nav_search .has-search {
+      width: 100%;
+    }
+    .nav_search .has-search input[type="text"]{
+      width: 100%;
+    }
+    ul#mainNavbarCollapse {
+      margin: 12px auto;
+      position: relative;
+      width: 100%;
+    }
+    ul#mainNavbarCollapse li.notif li.list-inline-item {
+      width: 100% !important;
+      position: relative;
+    }
+    ul#mainNavbarCollapse li.notif li.list-inline-item .notif_row {
+      width: 100% !important;
+      position: relative;
+    }
+    .dropdown-menu a.notify-item {
+      width: 100% !important; 
+      -webkit-transition: width 0.4s ease-in-out;
+      transition: width 0.4s ease-in-out;
+      margin: auto;
+    }
+    /* steps on how to use afrihow publisher's platform */
+    .publisher_steps {
+      width: 100%;
+      margin: auto;
+      padding: 6px !important;
+    }
+    .publisher_steps_one {
+      width: 100%;
+      text-align: center;
+      margin: auto !important;
+    }
+    .publisher_steps_one .publisher_step_left {
+      width: 100%;
+    }
+    .publisher_steps_one .publisher_step_left {
+      float: left;
+      width: 20%;
+      margin: 1em auto;
+    }
+    .publisher_steps_one .publisher_step_left span.step_no {
+        border-radius: 50%;
+        background: #004000;
+        color: #fff;
+        padding: 14px;
+        font-weight: 600;
+    }
+    ul.progressbar {
+      display: none;
+    }
+    .publisher_steps_one .publisher_step_right {
+      float: left;
+      width: 80%;
+      text-align: left;
+    }
+    .publisher_steps_one .publisher_step_right h4 {
+      font-size: 18px;
+    }
+}

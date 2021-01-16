@@ -1,0 +1,100 @@
+<div id="myTabContent" class="tab-content">
+                                                <div role="tabpanel" class="tabs-para tab-pane fade in active" id="pending" aria-labelledby="pending-tab">
+                                                    <div class="row mt-3">
+                                                        <div class="col-md-2"></div>
+                                                        <div class="col-md-10">
+                                                            <div class="row">
+                                                                <span class="col-md-9"><h6>Julius Olajumoke</h6></span>
+                                                                <span class="col-md-3 date"><h6><?php echo date('M d,Y'); ?></h6></span>
+                                                            </div>
+                                                            <p>Welcome to the home of sports, Welcome to the home of sportsWelcome to the home of sportsWelcome to the home of sportsWelcome to the home of sportsWelcome to the home of sports</p>
+                                                            <div class="article_actions">
+                                                                <div class="row">
+                                                                    <div class="col-md-4">PENDING</div>
+                                                                    <div class="col-md-8">
+                                                                        <!-- Use Javascript to Hover out this action -->
+                                                                        <div class="article_actions_col">
+                                                                            <ul>
+                                                                                <li><a href="#">Quick View</a></li>
+                                                                                <li><a href="#">Edit</a></li>
+                                                                                <li><a href="#">Delete</a></li>
+                                                                            </ul>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>#
+                                                </div>
+                                                <div role="tabpanel" class="tabs-para tab-pane fade" id="approved" aria-labelledby="approved-tab">
+                                                    <div class="row mt-3">
+                                                        <div class="col-md-2"></div>
+                                                        <div class="col-md-10">
+                                                            <div class="row">
+                                                                <span class="col-md-9"><h6>Julius Olajumoke</h6></span>
+                                                                <span class="col-md-3 date"><h6><?php echo date('M d,Y'); ?></h6></span>
+                                                            </div>
+                                                            <p>Welcome to the home of programming, Welcome to the home of sportsWelcome to the home of sportsWelcome to the home of sportsWelcome to the home of sportsWelcome to the home of sports</p>
+                                                            <div class="article_actions">
+                                                                <div class="row">
+                                                                    <div class="col-md-4">PENDING</div>
+                                                                    <div class="col-md-8">
+                                                                        <div class="article_actions_col">
+                                                                            <ul>
+                                                                                <li><a href="#">Quick View</a></li>
+                                                                                <li><a href="#">Edit</a></li>
+                                                                                <li><a href="#">Delete</a></li>
+                                                                            </ul>
+                                                                        </div>
+                                                                        
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+
+
+                                             <div class="resp-tabs-container">
+                                        <div class="resp-accordion resp-tab-active" role="tab" aria-controls="tab_item-0">
+                                            <div class="row">
+                                                <div class="col-md-3">
+                                                    <img src="" alt="" class="img-fluid">
+                                                </div>
+                                                <div class="col-md-9">
+                                                    <h2>Welcome here</h2>
+                                                    <p>Building a Platform for Learning is what birth afrihow, we want to empower the next generation of leaders with the right tools they need for success in their chosen field.</p>
+                                                    <div class="article_actions_col">
+                                                        <ul>
+                                                            <li> <b>PENDING</b> </li>
+                                                            <li><a href="#">Quick View</a></li>
+                                                            <li><a href="#">Edit</a></li>
+                                                            <li><a href="#">Delete</a></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="resp-accordion" role="tab" aria-controls="tab_item-1">
+                                            <div class="row">
+                                                    <div class="col-md-3">
+                                                        <img src="" alt="" class="img-fluid">
+                                                    </div>
+                                                    <div class="col-md-9">
+                                                        <h2>Welcome here</h2>
+                                                        <p>Building a Platform for Learning is what birth afrihow, we want to empower the next generation of leaders with the right tools they need for success in their chosen field.</p>
+                                                        <div class="article_actions_col">
+                                                            <ul>
+                                                                <li> <b>PENDING</b> </li>
+                                                                <li><a href="#">Quick View</a></li>
+                                                                <li><a href="#">Edit</a></li>
+                                                                <li><a href="#">Delete</a></li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>

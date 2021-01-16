@@ -1,0 +1,33 @@
+.banner {
+    margin: auto;
+    margin-bottom: 2em;
+    width: 100%;   
+    background: -moz-linear-gradient(45deg, #50f080 0%, #98f17c 100%);
+    background: -webkit-gradient(left bottom, right top, color-stop(0%, #50f080), color-stop(100%, #98f17c));
+    background: -moz-linear-gradient(45deg, #50f080 0%, #98f17c 100%);
+    background: -webkit-linear-gradient(45deg, #50f080 0%, #98f17c 100%);
+    background: -o-linear-gradient(45deg, #50f080 0%, #98f17c 100%);
+    background: -ms-linear-gradient(45deg, #50f080 0%, #98f17c 100%);
+    background: linear-gradient(45deg, #50f080 0%, #98f17c 100%);
+    padding: 2em;
+}
+.banner h2 {
+    text-align: center;
+    color: #292727;
+    font-weight: 500;
+}
+.banner p {
+    text-align: center;
+    font-size: 18px;
+    color: #4d4a4a;
+    margin: 2em auto;
+}
+.banner .button {
+    width: 80% !important;
+    margin: 1em auto;
+}
+.banner .button button.btn {
+    font-size: 16px;
+    font-weight: 900 !important;
+}
+
